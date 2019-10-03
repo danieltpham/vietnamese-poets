@@ -25,4 +25,4 @@ http://thivien.net is an open-source database for Vietnamese literature. This pe
 * Run `Poem data scraping.ipynb` to extract all poems from each author in `authorlist.csv`, and save to a csv file with the author's name.
 * Run `NLP.ipynb` with the names of the authors to build a prediction model.
 
-**_Please note: Web scraping will reach CAPTCHA limit! This project is built solely for self-practice purposes and should only be considered theoretical!_**
+**_Please note: Web scraping will reach CAPTCHA limit! This project is built solely for self-practice purposes and should only be considered to be fully theoretical!_**
